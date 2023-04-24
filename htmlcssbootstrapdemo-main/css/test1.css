@@ -1,0 +1,17 @@
+h1{
+    color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    text-align: center;
+}
+#p1{
+    background-color: aqua;
+}
+.fruits{
+color: blue;
+border: 1px solid black;
+}
+
+body{
+    background-color: black;
+}
